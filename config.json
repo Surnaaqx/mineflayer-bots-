@@ -1,0 +1,21 @@
+{
+  "owner": "Surnaaqx",
+  "server": {
+    "host": "Surnaaqx.aternos.me",
+    "port": 22187,
+    "version": "1.21.4"
+  },
+  "bots": {
+    "count": 20,
+    "spawnDelay": 4500,
+    "auth": "offline",
+    "usernamePrefix": "Sur"
+  },
+  "behavior": {
+    "reconnectOnKick": true,
+    "reconnectDelay": 5000
+  },
+  "dashboard": {
+    "port": 3000
+  }
+}
